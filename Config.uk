@@ -1,0 +1,7 @@
+menuconfig libsample22
+	bool "null"
+	default n
+
+config libsample22_MAIN_FUNCTION
+	bool "Provide main function"
+	default n
